@@ -1,10 +1,3 @@
-"""
-🚀 DevOps Панель - ВСЁ В ОДНОМ ФАЙЛЕ
-Запуск: python devops_app.py
-Открыть: http://localhost:5000
-Логин: admin / admin123
-"""
-
 import os
 import random
 from datetime import datetime
@@ -1051,3 +1044,4 @@ if __name__ == '__main__':
         port=5000,
         threaded=True
     )
+
